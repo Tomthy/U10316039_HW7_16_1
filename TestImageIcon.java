@@ -55,7 +55,7 @@ public class TestImageIcon extends JFrame {
   public static void main(String[] args) {
 	TestImageIcon frame = new TestImageIcon();
 	frame.setTitle("U10316039");
-	frame.setpack();
+	frame.pack();
 	frame.setLocationRelativeTo(null); // Center the frame
 	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	frame.setVisible(true);
